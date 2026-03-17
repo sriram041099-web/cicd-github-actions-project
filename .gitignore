@@ -1,0 +1,7 @@
+.Turbovpn/
+*.log
+*.db
+node_modules/
+
+
+
