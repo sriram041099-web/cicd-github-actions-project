@@ -1,0 +1,5 @@
+[user]
+	name = sriram041099-web
+	email = sriram041099@gmail.com\ngit config --global user.gmail sriram041099@gmail.com
+[core]
+	autocrlf = true
